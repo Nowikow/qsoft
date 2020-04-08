@@ -1,2 +1,2 @@
-# qsoft
-qsoft tasks
+# Qsoft
+Two tasks from Qsoft internship
